@@ -1,0 +1,13 @@
+../Core/Src/matrix.c:21:6:matrix_init	24	static
+../Core/Src/matrix.c:35:6:matrix_invert_lower	56	static
+../Core/Src/matrix.c:85:6:matrix_mult	72	static
+../Core/Src/matrix.c:137:6:matrix_mult_transb	80	static
+../Core/Src/matrix.c:181:6:matrix_multadd_transb	80	static
+../Core/Src/matrix.c:225:6:matrix_multscale_transb	80	static
+../Core/Src/matrix.c:268:6:matrix_mult_rowvector	72	static
+../Core/Src/matrix.c:304:6:matrix_multadd_rowvector	72	static
+../Core/Src/matrix.c:331:6:matrix_copy	16	static
+../Core/Src/matrix.c:335:6:matrix_sub_inplace_b	24	static
+../Core/Src/matrix.c:341:6:matrix_add_inplace	24	static
+../Core/Src/matrix.c:347:6:matrix_sub	32	static
+../Core/Src/matrix.c:353:6:matrix_get_column_copy	32	static

@@ -1,0 +1,6 @@
+../Core/Src/api_trimmed.c:17:12:_dwm_send_command	16	static
+../Core/Src/api_trimmed.c:21:12:_dwm_receive_response	24	static
+../Core/Src/api_trimmed.c:26:5:dwm_init	16	static
+../Core/Src/api_trimmed.c:36:5:dwm_cfg_tag_set	24	static
+../Core/Src/api_trimmed.c:45:5:dwm_uwb_cfg_set	24	static
+../Core/Src/api_trimmed.c:56:5:dwm_loc_get	88	static

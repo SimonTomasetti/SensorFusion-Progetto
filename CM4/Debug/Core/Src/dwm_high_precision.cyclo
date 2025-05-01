@@ -1,0 +1,2 @@
+../Core/Src/dwm_high_precision.c:31:19:DWM_Init	4
+../Core/Src/dwm_high_precision.c:52:19:DWM_GetDistances	3
